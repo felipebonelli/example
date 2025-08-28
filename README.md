@@ -10,6 +10,8 @@ Click the green **Use this template** button at the top of this repo to copy the
 - API reference pages
 - Use of popular components
 
+**[Example](google.com)**
+
 **[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
 
 ## Development
